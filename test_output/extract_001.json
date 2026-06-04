@@ -1,0 +1,11 @@
+{
+  "_meta": {
+    "url": "https://httpbin.org/html",
+    "extracted_at": "2026-06-04T10:13:39.021598",
+    "selectors_used": {
+      "title": "h1"
+    },
+    "content_type": "generic"
+  },
+  "title": "503 Service Temporarily Unavailable"
+}

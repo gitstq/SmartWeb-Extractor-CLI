@@ -1,0 +1,54 @@
+# 🧠 SmartWeb-Extractor-CLI .gitignore
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Output directories (user-generated)
+extracted/
+output/
+results/
+
+# Logs
+*.log
+logs/
+
+# Local config
+.env
+.env.local
+config.local.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp

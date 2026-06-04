@@ -1,0 +1,24 @@
+# SmartWeb-Extractor-CLI
+# 🧠 AI-Powered Intelligent Web Content Structured Extraction Engine
+# 
+# ⚠️ 零依赖设计警告 / Zero Dependency Warning / 零依賴設計警告
+# 本项目核心引擎仅使用 Python 标准库，无需安装任何第三方依赖！
+# This project's core engine uses only Python standard library, no third-party dependencies required!
+# 本專案核心引擎僅使用 Python 標準庫，無需安裝任何第三方依賴！
+#
+# 以下依赖仅在运行测试或开发时可选安装：
+# The following dependencies are optional and only needed for testing or development:
+# 以下依賴僅在運行測試或開發時可選安裝：
+
+# 可选：用于运行单元测试 / Optional: for running unit tests / 可選：用於運行單元測試
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# 可选：用于代码格式化 / Optional: for code formatting / 可選：用於代碼格式化
+# black>=23.0.0
+
+# 可选：用于类型检查 / Optional: for type checking / 可選：用於類型檢查
+# mypy>=1.0.0
+
+# 核心运行要求 / Core runtime requirements / 核心運行要求:
+# Python >= 3.8
